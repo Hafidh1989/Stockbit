@@ -5,7 +5,7 @@
 
 ## Notes
 - Language : Java
-- Framework : Cucumber BDD Selenium
+- Framework : Cucumber BDD Selenium , BDD OkHTTP
 - IDE : Intellij
 
 ## How to run
